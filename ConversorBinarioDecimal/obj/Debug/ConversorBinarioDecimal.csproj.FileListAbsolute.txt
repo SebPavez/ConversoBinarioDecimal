@@ -1,0 +1,6 @@
+D:\Proyectos VS 2015\ConversorBinarioDecimal\ConversorBinarioDecimal\bin\Debug\ConversorBinarioDecimal.exe.config
+D:\Proyectos VS 2015\ConversorBinarioDecimal\ConversorBinarioDecimal\bin\Debug\ConversorBinarioDecimal.exe
+D:\Proyectos VS 2015\ConversorBinarioDecimal\ConversorBinarioDecimal\bin\Debug\ConversorBinarioDecimal.pdb
+D:\Proyectos VS 2015\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.exe
+D:\Proyectos VS 2015\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.pdb
+D:\Proyectos VS 2015\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.csprojResolveAssemblyReference.cache
